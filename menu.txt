@@ -1,0 +1,4 @@
+pizza,500.0,meal,true
+coffee,30.0,beverage,true
+maggi,20.0,snacks,true
+fries,60.0,snacks,true
